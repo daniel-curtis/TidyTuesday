@@ -1,3 +1,3 @@
 # TidyTuesday
 
-# Repository for TidyTuesday projects
+## Repository for TidyTuesday projects
